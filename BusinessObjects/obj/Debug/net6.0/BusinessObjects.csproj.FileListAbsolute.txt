@@ -1,0 +1,30 @@
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Semester8\Lab1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\Semester8\Lab1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+D:\Semester8\Lab1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\Semester8\Lab1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\Semester8\Lab1\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+D:\Semester8\Lab1\BusinessObjects\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\New folder\Lab1\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll

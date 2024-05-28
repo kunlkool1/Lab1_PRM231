@@ -1,0 +1,36 @@
+D:\Semester8\Lab1\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\Semester8\Lab1\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\Semester8\Lab1\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\Semester8\Lab1\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+D:\Semester8\Lab1\Repositories\bin\Debug\net6.0\DataAccess.dll
+D:\Semester8\Lab1\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+D:\Semester8\Lab1\Repositories\bin\Debug\net6.0\DataAccess.pdb
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\Semester8\Lab1\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\Semester8\Lab1\Repositories\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\ADMIN\Desktop\New folder\Lab1\Repositories\obj\Debug\net6.0\ref\Repositories.dll
